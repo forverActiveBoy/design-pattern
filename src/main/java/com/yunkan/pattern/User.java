@@ -7,4 +7,8 @@ package com.yunkan.pattern;
  */
 public interface User {
     void eat();
+
+
+
+
 }
