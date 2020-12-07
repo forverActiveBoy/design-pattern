@@ -6,6 +6,11 @@ package com.yunkan.pattern;
  * @apiNote
  */
 public interface User {
+
+
+    /**
+     * 测试分支合并
+     */
     void eat();
 
 
