@@ -6,8 +6,14 @@ package com.yunkan.pattern;
  * @apiNote
  */
 public interface User {
+
+
     /**
-     * 测试test分支
+     * 原有业务逻辑
      */
     void eat();
+
+
+
+
 }
