@@ -6,7 +6,7 @@ import java.lang.reflect.Method;
 /**
  * @author foreverActiveBoy
  * @date 2020/12/7 19:47
- * @apiNote 动态代理类
+ * @apiNote jdk动态代理类
  */
 public class DynamicProxy implements InvocationHandler {
 
