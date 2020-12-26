@@ -1,4 +1,4 @@
-package com.yunkan.pattern;
+package com.yunkan.pattern.proxy;
 
 /**
  * @author foreverActiveBoy

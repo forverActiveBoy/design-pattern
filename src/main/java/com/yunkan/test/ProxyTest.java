@@ -1,8 +1,8 @@
 package com.yunkan.test;
 
-import com.yunkan.pattern.DynamicProxy;
-import com.yunkan.pattern.User;
-import com.yunkan.pattern.UserImpl;
+import com.yunkan.pattern.proxy.DynamicProxy;
+import com.yunkan.pattern.proxy.User;
+import com.yunkan.pattern.proxy.UserImpl;
 
 import java.lang.reflect.Proxy;
 
